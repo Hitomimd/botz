@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["6285878105774@s.whatsapp.net"],
+  "ownerName": ["Ova"],
+  "botName": "Bot",
+  "youtubeOwner": "https://youtube.com/c/Riy",
+  "donasiDana": "085878105774",
+  "donasiGopay": "085878105774",
+  "sessionName": "session",
+  "pathimg": "./media/hinata.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
